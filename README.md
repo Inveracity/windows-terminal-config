@@ -12,7 +12,7 @@ My Windows Terminal 1.0 Config with CMDER
 - Jumps into the (my users) git folder
 - Adds the following key shortcuts:
   - split panel: `ctrl+shift+d`
-  - close pane:  `ctrl+w` and `ctrl+d`
+  - close pane:  `ctrl+w`
   - new tab:     `ctrl+t`
 
 ```jsonc
@@ -119,7 +119,6 @@ My Windows Terminal 1.0 Config with CMDER
         // To learn more about panes, visit https://aka.ms/terminal-panes
         { "command": { "action": "splitPane", "split": "auto", "splitMode": "duplicate" }, "keys": "ctrl+shift+d" },
         { "command": "closePane", "keys": ["ctrl+w"] },
-        { "command": "closePane", "keys": ["ctrl+d"] },
         { "command": "newTab", "keys": ["ctrl+t"] }
     ]
 }
