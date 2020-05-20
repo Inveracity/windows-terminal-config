@@ -1,6 +1,9 @@
 # windows-terminal-config
 My Windows Terminal 1.0 Config with CMDER
 
+# Windows Terminal Version
+- `Version: 1.0.1401.0`
+
 # Dependencies
 
 - [cmder](https://cmder.net/)
