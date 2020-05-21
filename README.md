@@ -65,6 +65,7 @@ My Windows Terminal 1.0 Config with CMDER
                 "closeOnExit": true,
                 "cursorColor": "#FFFFFF",
                 "cursorShape": "bar",
+                "colorScheme": "One Half Dark",
                 "historySize": 9001,
                 "padding": "8, 8, 8, 8",
                 "snapOnInput": true,
