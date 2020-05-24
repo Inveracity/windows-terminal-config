@@ -17,6 +17,14 @@ My Windows Terminal 1.0 Config with CMDER
   - split panel: `ctrl+shift+d`
   - close pane:  `ctrl+w`
   - new tab:     `ctrl+t`
+  - next tab:    `alt+right`
+  - prev tab:    `alt+left`
+
+#### Font
+
+I like to use Roboto Mono which is available to download here
+
+[fonts.google.com/Roboto+Mono](https://fonts.google.com/specimen/Roboto+Mono)
 
 #### Config
 
