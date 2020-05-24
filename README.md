@@ -11,7 +11,7 @@ My Windows Terminal 1.0 Config with CMDER
 #### What it does
 
 - Runs the cmder initialisation in the default shell
-- Set the font to Consolas
+- Set the font to `Roboto Mono`
 - Jumps into the (my users) git folder
 - Adds the following key shortcuts:
   - split panel: `ctrl+shift+d`
