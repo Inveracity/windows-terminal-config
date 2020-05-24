@@ -67,10 +67,11 @@ My Windows Terminal 1.0 Config with CMDER
                 "cursorShape": "bar",
                 "colorScheme": "One Half Dark",
                 "historySize": 9001,
-                "padding": "8, 8, 8, 8",
+                "padding": "10, 10, 10, 10",
                 "snapOnInput": true,
                 "startingDirectory": "%USERPROFILE%/git",
-                "fontFace": "Consolas"
+                "fontFace": "Roboto Mono",
+                "fontSize": 13
             },
             {
                 // Make changes here to the powershell.exe profile.
@@ -125,8 +126,9 @@ My Windows Terminal 1.0 Config with CMDER
         // To learn more about panes, visit https://aka.ms/terminal-panes
         { "command": { "action": "splitPane", "split": "auto", "splitMode": "duplicate" }, "keys": "ctrl+shift+d" },
         { "command": "closePane", "keys": ["ctrl+w"] },
-        { "command": "newTab", "keys": ["ctrl+t"] }
+        { "command": "newTab", "keys": ["ctrl+t"] },
+        { "command": "nextTab", "keys": ["alt+right"] },
+        { "command": "prevTab", "keys": ["alt+left"] }
     ]
 }
-
 ```
