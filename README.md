@@ -49,7 +49,9 @@ I like to use Roboto Mono which is available to download here
 
     // If enabled, formatted data is also copied to your clipboard
     "copyFormatting": false,
-
+    
+    // Disable tab dropdown https://docs.microsoft.com/en-us/windows/terminal/customize-settings/global-settings#tab-settings
+    "useTabSwitcher": false,
 
 
     // A profile specifies a command to execute paired with information about how it should look and feel.
